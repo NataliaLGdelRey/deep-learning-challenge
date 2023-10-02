@@ -28,7 +28,7 @@ The activation function used in the output layer is sigmoid, which is ideal for 
 - Summary
 -------------------
 
-Despite the various changes made in the model in the three attempts, the model was unable to reach the target accuracy of 75%. The deep learning model that was implemented resulted in an accuracy of 72.50 to 72.80% and a loss of 0.56 to .55. The goal was to predict whether an applicant will be successful if funded by the organization or not. During our experiments, we rarely observed the training accuracy surpassing 74%, which is when the network has access to the answers. Thus, we are confident that obtaining a real-world result of 75% accuracy on test data using this method is not feasible.
+Despite the various changes made in the model the model was unable to reach the target accuracy of 75%. The deep learning model that was implemented resulted in a loss of 0.5659 - and accuracy of 0.7251 (72%). The goal was to predict whether an applicant will be successful if funded by the organization or not. During our experiments, we rarely observed the training accuracy surpassing 73%, which is when the network has access to the answers. Thus, we are confident that obtaining a real-world result of 75% accuracy on test data using this method is not feasible.
 
 ## Recommendation
 -------------------
